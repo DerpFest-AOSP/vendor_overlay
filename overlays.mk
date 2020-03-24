@@ -202,4 +202,5 @@ PRODUCT_PACKAGES += \
     NavbarOldOverlay \
     NavbarSammyOverlay \
     NavbarKronicOverlay \
-    NavbarDoraOverlay
+    NavbarDoraOverlay \
+    NavbarPDOverlay

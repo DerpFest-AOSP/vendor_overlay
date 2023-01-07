@@ -30,6 +30,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     FontArbutusSourceOverlay \
     FontArvoLatoOverlay \
+    FontAuthenticSansOverlay \
     FontGoogleSansOverlay \
     FontRubikRubikOverlay \
     FontAdamCGinoraOverlay \
@@ -44,6 +45,7 @@ PRODUCT_PACKAGES += \
     FontBariolSourceOverlay \
     FontCagliostroSourceOverlay \
     FontComfortaaSourceOverlay \
+    FontComicNeueOverlay \
     FontComicSansSourceOverlay \
     FontCoolstorySourceOverlay \
     FontInterSourceOverlay \
@@ -63,6 +65,36 @@ PRODUCT_PACKAGES += \
     FontHarmonySansOverlay \
     FontTinkerbellOverlay \
     FontStoropiaSourceOverlay \
+    FontDecalotypeOverlay \
+    FontExo2Overlay \
+    FontFantasqueSansMonoOverlay \
+    FontFleuronOverlay \
+    FontFinlandicaOverlay \
+    FontGothamonoOverlay \
+    FontGravityOverlay \
+    FontIgnazioTextOverlay \
+    FontJakartaPlusOverlay \
+    FontLeagueMonoNarrowOverlay \
+    FontLeonSansOverlay \
+    FontLumieOverlay \
+    FontMesclaOverlay \
+    FontMilimetreOverlay \
+    FontNowOverlay \
+    FontOdibeeOverlay \
+    FontOpenSauceOverlay \
+    FontPanamericanaOverlay \
+    FontPTSansMonoOverlay \
+    FontQTVagaroundOverlay \
+    FontRouterGothicNarrowOverlay \
+    FontRoutedGothicRobotoCondensedOverlay \
+    FontScientificaOverlay \
+    FontSofiaSansOverlay \
+    FontSofiaSansSemiCondensedOverlay \
+    FontUniversalisCondOverlay \
+    FontUniversalisRegOverlay \
+    FontVG5000Overlay \
+    FontVladivostokOverlay \
+    FontVolteOverlay
 
 # Icon shapes
 PRODUCT_PACKAGES += \

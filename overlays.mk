@@ -42,7 +42,7 @@ PRODUCT_PACKAGES += \
     FontMontserratSourceOverlay \
     FontNothingDotOverlay \
     FontOnePlusSansOverlay \
-    FontOneplusSlateSource \
+    FontOneplusSlateSourceOverlay \
     FontOppoSansOverlay \
     FontFluidSansOverlay \
     FontRosemarySourceOverlay \

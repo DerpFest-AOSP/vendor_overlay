@@ -74,6 +74,7 @@ PRODUCT_PACKAGES += \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay \
     IconShapeRoundedHexagonOverlay \
+    IconShapeIosOverlay \
     RohieIconMeowOverlay
 
 # Other

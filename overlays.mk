@@ -27,34 +27,34 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/ttf,$(TARGET
 include vendor/overlay/clocks.mk
 
 # Font Overalys
-PRODUCT_PACKAGES += \
-    FontArbutusSourceOverlay \
-    FontArvoLatoOverlay \
-    FontRubikRubikOverlay \
-    FontAclonicaSourceOverlay \
-    FontAmaranteSourceOverlay \
-    FontBariolSourceOverlay \
-    FontCagliostroSourceOverlay \
-    FontComfortaaSourceOverlay \
-    FontComicSansSourceOverlay \
-    FontCoolstorySourceOverlay \
-    FontInterSourceOverlay \
-    FontLinotteSourceOverlay \
-    FontManropeOverlay \
-    FontLGSmartGothicSourceOverlay \
-    FontMontserratSourceOverlay \
-    FontNothingDotOverlay \
-    FontOnePlusSansOverlay \
-    FontOneplusSlateSourceOverlay \
-    FontOppoSansOverlay \
-    FontFluidSansOverlay \
-    FontRosemarySourceOverlay \
-    FontSamsungOneSourceOverlay \
-    FontSonySketchSourceOverlay \
-    FontSurferSourceOverlay \
-    FontHarmonySansOverlay \
-    FontTinkerbellOverlay \
-    FontStoropiaSourceOverlay \
+#PRODUCT_PACKAGES += \
+#    FontArbutusSourceOverlay \
+#    FontArvoLatoOverlay \
+#    FontRubikRubikOverlay \
+#    FontAclonicaSourceOverlay \
+#    FontAmaranteSourceOverlay \
+#    FontBariolSourceOverlay \
+#    FontCagliostroSourceOverlay \
+#    FontComfortaaSourceOverlay \
+#    FontComicSansSourceOverlay \
+#    FontCoolstorySourceOverlay \
+#    FontInterSourceOverlay \
+#    FontLinotteSourceOverlay \
+#    FontManropeOverlay \
+#    FontLGSmartGothicSourceOverlay \
+#    FontMontserratSourceOverlay \
+#    FontNothingDotOverlay \
+#    FontOnePlusSansOverlay \
+#    FontOneplusSlateSourceOverlay \
+#    FontOppoSansOverlay \
+#    FontFluidSansOverlay \
+#    FontRosemarySourceOverlay \
+#    FontSamsungOneSourceOverlay \
+#    FontSonySketchSourceOverlay \
+#    FontSurferSourceOverlay \
+#    FontHarmonySansOverlay \
+#    FontTinkerbellOverlay \
+#    FontStoropiaSourceOverlay \
 
 # Icon shapes
 PRODUCT_PACKAGES += \
@@ -79,93 +79,93 @@ PRODUCT_PACKAGES += \
 
 # Other
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay \
-    RoundQSOverlay
+    AndroidBlackThemeOverlay
+#    RoundQSOverlay
 
 # Statusbar Icons
-PRODUCT_PACKAGES += \
-    AcherusSignalOverlay \
-    AcherusSubsSignalGOverlay \
-    AcherusSubsSignalTOverlay \
-    BarsSignalOverlay \
-    GradiconSignalOverlay \
-    InsideSignalOverlay \
-    IosSignalOverlay \
-    LivSignalOverlay \
-    NothingDotSignalOverlay \
-    OdineeSignalOverlay \
-    PUISignalOverlay \
-    RoundSignalOverlay \
-    StrokeSignalOverlay \
-    SneakySignalOverlay \
-    XperiaSignalOverlay \
-    WannaSignalOverlay \
-    WavySignalOverlay \
-    WindowsSignalOverlay \
-    ZigZagSignalOverlay
+#PRODUCT_PACKAGES += \
+#    AcherusSignalOverlay \
+#    AcherusSubsSignalGOverlay \
+#    AcherusSubsSignalTOverlay \
+#    BarsSignalOverlay \
+#    GradiconSignalOverlay \
+#    InsideSignalOverlay \
+#    IosSignalOverlay \
+#    LivSignalOverlay \
+#    NothingDotSignalOverlay \
+#    OdineeSignalOverlay \
+#    PUISignalOverlay \
+#    RoundSignalOverlay \
+#    StrokeSignalOverlay \
+#    SneakySignalOverlay \
+#    XperiaSignalOverlay \
+#    WannaSignalOverlay \
+#    WavySignalOverlay \
+#    WindowsSignalOverlay \
+#    ZigZagSignalOverlay
 
 # Wi-Fi Icons
-PRODUCT_PACKAGES += \
-    AcherusWiFiOverlay \
-    AcherusSubsWifiGOverlay \
-    AcherusSubsWifiTOverlay \
-    BarsWiFiOverlay \
-    DoraWiFiOverlay \
-    GradiconWiFiOverlay \
-    InsideWiFiOverlay \
-    LivWifiOverlay \
-    NothingDotWiFiOverlay \
-    PavlovaWiFiOverlay \
-    RoundWiFiOverlay \
-    StrokeWiFiOverlay \
-    SneakyWiFiOverlay \
-    XperiaWiFiOverlay \
-    WavyWiFiOverlay \
-    WeedWiFiOverlay \
-    ZigZagWiFiOverlay
+#PRODUCT_PACKAGES += \
+#    AcherusWiFiOverlay \
+#    AcherusSubsWifiGOverlay \
+#    AcherusSubsWifiTOverlay \
+#    BarsWiFiOverlay \
+#    DoraWiFiOverlay \
+#    GradiconWiFiOverlay \
+#    InsideWiFiOverlay \
+#    LivWifiOverlay \
+#    NothingDotWiFiOverlay \
+#    PavlovaWiFiOverlay \
+#    RoundWiFiOverlay \
+#    StrokeWiFiOverlay \
+#    SneakyWiFiOverlay \
+#    XperiaWiFiOverlay \
+#    WavyWiFiOverlay \
+#    WeedWiFiOverlay \
+#    ZigZagWiFiOverlay
 
 # Data icons
-PRODUCT_PACKAGES += \
-    AuroraDataOverlay \
-    FaintUIDataOverlay \
-    GradiconDataOverlay \
-    LornDataOverlay \
-    PlumpyDataOverlay
+#PRODUCT_PACKAGES += \
+#    AuroraDataOverlay \
+#    FaintUIDataOverlay \
+#    GradiconDataOverlay \
+#    LornDataOverlay \
+#    PlumpyDataOverlay
 
 # Icon Data
-PRODUCT_PACKAGES += \
-    IconDataFive \
-    IconDataFour \
-    IconDataOne \
-    IconDataThree \
-    IconDataTwo
+#PRODUCT_PACKAGES += \
+#    IconDataFive \
+#    IconDataFour \
+#    IconDataOne \
+#    IconDataThree \
+#    IconDataTwo
 
 # Brightness slider styles
-PRODUCT_PACKAGES += \
-    BrightnessSliderAcunOverlay \
-    BrightnessSliderBangOverlay \
-    BrightnessSliderCyberpunkOverlay \
-    BrightnessSliderFilledOverlay \
-    BrightnessSliderGradientRoundedBarOverlay \
-    BrightnessSliderLeafyOutlineOverlay \
-    BrightnessSliderMinimalThumbOverlay \
-    BrightnessSliderOutlineOverlay \
-    BrightnessSliderRoundedClipOverlay \
-    BrightnessSliderShadedOverlay \
-    BrightnessSliderThinOverlay \
-    BrightnessSliderTranslucentOverlay
+#PRODUCT_PACKAGES += \
+#    BrightnessSliderAcunOverlay \
+#    BrightnessSliderBangOverlay \
+#    BrightnessSliderCyberpunkOverlay \
+#    BrightnessSliderFilledOverlay \
+#    BrightnessSliderGradientRoundedBarOverlay \
+#    BrightnessSliderLeafyOutlineOverlay \
+#    BrightnessSliderMinimalThumbOverlay \
+#    BrightnessSliderOutlineOverlay \
+#    BrightnessSliderRoundedClipOverlay \
+#    BrightnessSliderShadedOverlay \
+#    BrightnessSliderThinOverlay \
+#    BrightnessSliderTranslucentOverlay
 
 # Navbar
-PRODUCT_PACKAGES += \
-    NavbarAsusOverlay \
-    NavbarOnePlusOverlay \
-    NavbarOneUiOverlay \
-    NavbarTecnoCamonOverlay \
-    NavbarAndroidOverlay \
-    NavbarMotoOverlay \
-    NavbarNexusOverlay \
-    NavbarOldOverlay \
-    NavbarSammyOverlay \
-    NavbarKronicOverlay \
-    NavbarDoraOverlay \
-    NavbarPDOverlay
+#PRODUCT_PACKAGES += \
+#    NavbarAsusOverlay \
+#    NavbarOnePlusOverlay \
+#    NavbarOneUiOverlay \
+#    NavbarTecnoCamonOverlay \
+#    NavbarAndroidOverlay \
+#    NavbarMotoOverlay \
+#    NavbarNexusOverlay \
+#    NavbarOldOverlay \
+#    NavbarSammyOverlay \
+#    NavbarKronicOverlay \
+#    NavbarDoraOverlay \
+#    NavbarPDOverlay

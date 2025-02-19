@@ -42,6 +42,8 @@ PRODUCT_PACKAGES += \
     FontMontserratSourceOverlay \
     FontNothingDotOverlay \
     FontOnePlusSansOverlay \
+    FontJetBrainsMonoOverlay \
+    FontJetBrainsMonoNLOverlay \
     FontOneplusSlateSourceOverlay \
     FontOppoSansOverlay \
     FontFluidSansOverlay \
